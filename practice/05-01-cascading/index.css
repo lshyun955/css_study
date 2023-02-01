@@ -1,0 +1,15 @@
+* {
+  background-color: antiquewhite;
+}
+
+div {
+  background-color: aqua;
+}
+
+.text-class {
+  background-color: blueviolet !important;
+}
+
+#text-id {
+  background-color: chocolate;
+}
