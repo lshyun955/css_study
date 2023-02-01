@@ -39,13 +39,13 @@
 }
 
 .target2 {
-  transform: scale(0.8, 1.2);
+  transform: scaleY(0.75) skewX(20deg);
 }
 
 .target3 {
-  transform: skew(20deg, 30deg);
+  transform: skew(30deg, 10deg) rotate(45deg);
 }
 
 .target4 {
-  transform: rotate(-45deg);
+  transform: rotate(75deg) translateY(120px);
 }
